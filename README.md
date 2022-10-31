@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GNelsontheDA
-- 👀 I’m interested in becoming a Business Anaylst 
+- 👀 I’m interested in becoming a Business Analytics
 - 🌱 I’m currently learning SQL, Tableau, and Python
 - 💞️ I’m looking to collaborate on all SQL project
 - 📫 How to reach me via email @garynel1214@gmail.com
